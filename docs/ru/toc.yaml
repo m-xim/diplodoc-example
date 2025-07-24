@@ -1,3 +1,4 @@
+::: page-constructor
 blocks:
   - type: header-block
     width: xs
@@ -131,3 +132,4 @@ blocks:
         text: Stack Overflow
         url: '#'
 animated: true
+:::
